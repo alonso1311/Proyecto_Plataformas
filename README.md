@@ -14,5 +14,5 @@ Desarrollo Basado en Plataformas
 
 | Nombre          | Código    | 
 | :-------------: | :-------: | 
-| Carlo Merma     |           |
+| Carlo Merma     | 201810049 |
 | Alonso Winston  | 201810483 | 
